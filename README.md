@@ -87,3 +87,11 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
   
 ## DEPLOY IN RENDER    
 [![Deploy on RENDER](https://img.shields.io/badge/render%20Account-green?style=for-the-badge&logo=render)](https://dashboard.render.com/registerundefined)  
+
+
+## Special Thanks To
+- 1. 💭 Xeon ( cheems wa owner )
+- 2. 💭 Guru ( guru wa owner )
+- 3. 💭 Mr nima ( Elisa wa owner )
+- 4. 💭 Abhishek ( Abhishek wa owner )
+---------
